@@ -1,4 +1,4 @@
-# Jeu de morpion
+# Jeu de morpion en Ruby ❤️
 
 ## Présentation
 
@@ -10,21 +10,12 @@ Ce programme est un projet d'introduction au concept de Programmation Orientée 
 Pour faire fonctionner le programme faites un `bundle install`, puis lancez la commande `ruby app.rb` dans votre terminal depuis la racine du dossier.
 
 
-## Langage
-
-❤️ Ruby ❤️
-
-
 ## Infos supplémentaires
 
 - Pour faire les menus avec le curseur nous avons utilisé la gem [tty-prompt][RubyGems tty-prompt].
 
 - Pour ajouter des couleurs nous avons utilisé la gem [colorize][RubyGems colorize].
 
-
-## Crédit
-
-Repo de Charles Di Giampietro (*@Charl* sur Slack) et Andréa Granger (*@Andréa* sur Slack)
 
 
 [RubyGems tty-prompt]: https://rubygems.org/gems/tty-prompt
